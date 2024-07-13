@@ -1,0 +1,1 @@
+This project implements an SMS spam detector using machine learning techniques. It employs a Voting Classifier combining Logistic Regression, Bernoulli Naive Bayes, and Extra Trees Classifier, achieving high accuracy and precision. Stacking with a Random Forest Classifier further enhances performance.
